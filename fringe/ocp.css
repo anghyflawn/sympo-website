@@ -1,0 +1,62 @@
+/* main colors: #6f604c #e3d6c7 */ 
+BODY {
+	FONT-FAMILY: verdana,tahoma,sans-serif;
+	FONT-SIZE: 13px; 
+	background:#ffffff;
+	text-align: center;
+}
+img{
+	border:0px;
+}
+A:visited {
+	COLOR: #CC33CC;
+	text-decoration: none;
+}
+A:link {
+	COLOR: #333399;
+	text-decoration: none;
+}
+
+.main{
+	text-align: left;
+	width:775px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.logo{
+	width:775px;
+	float:left;
+	text-align:left;
+	color:#6f604c;
+	font-weight:bold;
+	font-size:45px;
+}
+.content{
+	width:775px;
+	float:left;
+}
+.where{
+	text-align:left;
+	width:775px;
+	color:#6f604c;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	font-size:13;
+	border-bottom:1px dashed #6f604c;
+}
+.delimiter{
+	height:5px;
+	FONT-SIZE: 1px; 
+}
+.banner{
+	margin-bottom:5px;
+
+}
+.footer{
+	clear:both;
+	font-size:10px;
+}
+.footertext{
+	text-align:right;
+}

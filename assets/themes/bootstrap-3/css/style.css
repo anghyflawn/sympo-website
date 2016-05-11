@@ -15,12 +15,13 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #336699;
 }
 #footer {
-  background-color: #fdcd60;
+  background-color: #ffcc66;
 }
 
+body { font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans; }
 
 
 /* posts index */
